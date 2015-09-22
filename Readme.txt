@@ -1,4 +1,15 @@
     Ursache Andrei - 322CA - 26 mai 2015
+	----------------------------------------------------------------------------
+	Proiect anul 2, semestrul al doilea, Paradigme de programare
+	Limbaj ales: Prolog
+	
+	############################     ATENTIE !!!    ############################
+	Temele sunt verificate pe VMChecker. Nu incercati sa copiati codul, deoarece
+	VMChecker verifica si sursele existente pe GitHub. In plus, fiecare tema va 
+	ajuta foarte mult daca incercati sa o realizati singuri. Asa ca, daca ai
+	ajuns aici pentru a cauta o tema, iti recomand calduros sa inchizi tab-ul cu 
+	GitHub si sa te apuci singur de ea. Spor!
+	----------------------------------------------------------------------------
 
     
     Ideea generala si implementare:
@@ -53,15 +64,6 @@
 	constrangerile initiale.
 	
     (!!!)   Alte detalii referitoare la implementarea temei se gasesc in 
-            fisierul sursa. Imi cer scuze ca am depasit uneori 80 de caractere
-			pe linie, dar daca as fi fragmentat codul nu cred ca mai era 
-			de inteles.
+            fisierul sursa.
 
-
-    Nota personala:
-		
-		O tema interesanta avand in vedere algoritmul GAC3 general. Cea mai 
-	dificila parte a fost algoritmul MAC. Imi pare rau ca nu am reusit sa fac 
-	bonusul, dar timpul in aceasta perioada este foarte limitat.
-    
     Andrei Ursache
